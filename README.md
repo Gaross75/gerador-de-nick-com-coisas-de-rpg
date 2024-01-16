@@ -1,2 +1,1 @@
-# gerador-de-nick-com-coisas-de-rpg
-bem eu fiz isso pra jogar um rpg com uma ia aqui como o codigo ficou bom decidi compartilhar eu ate tentei transformar ele executavel mas minha cabeça de amendoim n ajudou muito 
+Olá, pessoal! Eu quero compartilhar com vocês um código que eu fiz para jogar um RPG com uma IA. Eu achei muito divertido e interessante, e o código ficou bem legal. Eu tentei fazer ele rodar como um executável, mas eu não consegui. Se alguém souber como fazer isso, me dá uma dica. Espero que vocês gostem do meu projeto e se divirtam também!
